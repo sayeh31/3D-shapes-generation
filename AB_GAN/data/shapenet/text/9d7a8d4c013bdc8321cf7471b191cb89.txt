@@ -1,0 +1,5 @@
+ash color square shape wood glass material new model
+A rectangular table with white cover on surface and four legs
+This is an office space with Windows.  It is furnished with a fan, desks, and chairs.
+Three Dimensional model of Room looking like an Office Cabin
+mirror table

@@ -1,0 +1,5 @@
+A FOUR LEG CHAIR HAVING BLACK COLOURED LEGS AND HAVING NO HAND SUPPORT
+A WHITE COLOR TABLE. IT'S LEGS ARE IN BLACK COLOR. IT'S LEGS ARE STRAIGHT.
+color gray , shape rectangle , material wood , and physical appearance chair
+A simple white chair with four black legs.
+A white chair with four black legs. It has no arms.

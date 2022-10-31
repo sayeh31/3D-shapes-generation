@@ -1,0 +1,5 @@
+This object is brown and clear. The bottom of this object is made of wood with three different pieces and the top is made of glass.
+brown color,rectangle  shape,mirror mix wood  material, and physical appearance table
+A rectangular shaped table. Table top made with glass with two legs made in wood.
+A wood frame, glass top, coffee table, with center beam being a highlight of the structure.
+brown color , rectangle shape , wood and glass material , appearance base table

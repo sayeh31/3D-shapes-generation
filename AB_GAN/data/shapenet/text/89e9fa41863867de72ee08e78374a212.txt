@@ -1,0 +1,5 @@
+A grey colored four legged rectangle table. Can be used as a dining table for two persons.
+this object has grey color,shape is rectangle,its made from wooden structure,it appears experimental table
+A rectangular table in gray with 4 legs in dark gray.
+a grey shaded four legged rectangular common table.
+A gray plain rectangular kitchen table with four rectangular legs.
