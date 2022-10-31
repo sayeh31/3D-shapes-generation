@@ -20,6 +20,6 @@ Download pre-process ShapeNet dataset and extract it to `data/shapenet`
 
 the following fig shows some 3D shapes which are generate using  AB-GAN model with diffrent value for lambda2 hyperparameter. 
 
-![alt text](https://github.com/sayeh31/3D-shapes-generation/blob/main/AB-GAN.png)
+![alt text](AB-GAN.png)
 
 
