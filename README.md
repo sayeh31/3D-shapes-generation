@@ -6,7 +6,7 @@ AB-GAN is a modified version of [DM-GAN](https://arxiv.org/abs/1904.01310). In t
 
 ### Data
 
-Download the pre-processed ShapeNet dataset and extract it to `data/shapenet`
+[Download](https://www.kaggle.com/datasets/sayehkargari/shapenet-dataset-table-and-chairs-images) the pre-processed ShapeNet dataset and extract it to `data/shapenet`
 
 ### Training
 To train the model, run:
